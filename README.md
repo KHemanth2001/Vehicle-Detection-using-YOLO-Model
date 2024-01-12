@@ -1,0 +1,4 @@
+Every year, the number of vehicles on the road will be increasing. There were around 295 million units of vehicles recorded in India as of December 31, 2019. While as from the mid2017, there were around 230 million units of motor vehicles. Consequently, accurate and fast detection of vehicles on the road is needed, by using the volume of vehicles as valuable data
+for detecting traffic congestion which then benefits for traffic management. Some of the applications are video surveillance, vehicle navigation, intelligent robots control, unmanned vehicles, automated traffic control and biomedical image analysis etc. this
+project is using TensorFlow which is a platform for machine learning and you only look once (YOLO) which is an object detection algorithm for real-time vehicle detection, By combining these two and other dependencies with python as programming language. The accuracy of
+detection of vehicles will be increased compared to previous versions.
